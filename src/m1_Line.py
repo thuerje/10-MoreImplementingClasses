@@ -762,7 +762,6 @@ def run_test_init():
     print('  True')
     print('  False')
 
-
 def run_test_clone():
     """ Tests the   clone   method of the Line class. """
     m1t.run_test_clone()  # This runs OUR tests.
